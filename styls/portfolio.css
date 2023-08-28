@@ -63,6 +63,11 @@ nav a {
     padding: 15px 35px;
 
 }
+#contact-btn{
+    border: solid 1px #FD6E0A;
+    background: none;
+    color: #FD6E0A;
+}
 
 /* heaser related styles */
 .header {
